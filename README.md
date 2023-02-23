@@ -22,4 +22,4 @@
 </details>
 
 
-![:fireinsect](https://count.getloli.com/get/@:fireinsect&theme=asoul)
+![:fireinsect](https://count.getloli.com/get/@:fireinsect?theme=asoul)

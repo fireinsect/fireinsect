@@ -6,10 +6,8 @@
 - 👯 热爱新知识！讨厌啃书嘚斯！
 - 📫 我的个人技术博客：[https://fireinsect.top](https://fireinsect.top)  欢迎与我交流！
 
-<details>
   <summary><b>Github Stats 📈</b></summary>
   <br>
   <img src='https://github-profile-trophy.vercel.app/?username=fireinsect'>
   <img src="https://github-readme-stats.vercel.app/api?username=fireinsect&show_icons=true&theme=buefy">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fireinsect&theme=github" height="180px">
-</details>

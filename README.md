@@ -11,8 +11,9 @@
   <summary><b>Github Stats 📈</b></summary>
   <br>
   <img src='https://github-profile-trophy.vercel.app/?username=fireinsect'>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fireinsect&show_icons=true&theme=buefy&locale=cn">
   <img src="https://github-readme-stats.vercel.app/api?username=fireinsect&show_icons=true&theme=buefy&locale=cn">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fireinsect&theme=github" height="180px">
 </details>
 <details open>
   <summary><b>LeetCode And NowCoder Stats 📈</b></summary>

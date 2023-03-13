@@ -12,7 +12,7 @@
   <br>
   <img src='https://github-profile-trophy.vercel.app/?username=fireinsect'>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fireinsect&show_icons=true&theme=buefy&locale=cn">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fireinsect&show_icons=true&layout=compact&theme=buefy&locale=cn">
   <img src="https://github-readme-stats.vercel.app/api?username=fireinsect&show_icons=true&theme=buefy&locale=cn">
 </details>
 <details open>
